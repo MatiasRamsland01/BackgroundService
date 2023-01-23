@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hhXPrbxQK48pK4CIzV1RMwAEqcfm+W1sYcLKYcutEXc=",
+  "Source": "ServiceWorker",
+  "BasePath": "_content/ServiceWorker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
