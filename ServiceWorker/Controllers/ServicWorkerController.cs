@@ -22,7 +22,6 @@ namespace ServiceWorker.Controllers
             _logger = logger;
             _queue = queue;
         }   
-
         [HttpGet(Name = "GetWeatherForecast")]
         public ActionResult Post()
         {
